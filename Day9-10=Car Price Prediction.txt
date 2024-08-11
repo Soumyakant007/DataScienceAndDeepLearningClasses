@@ -1,0 +1,4 @@
+Day9-10=Car Price Prediction
+Day10.1-11-12=House price prediction
+Day12.1= Churn Data prediction
+Day13.1-14= Income Classification
